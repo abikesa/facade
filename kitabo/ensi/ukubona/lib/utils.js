@@ -42,3 +42,4 @@ export function checkSupport() {
 # flick 20250416171215-lnV9
 # flick 20250416191006-Q63A
 # flick 20250416222901-ohSi
+# flick 20250416225808-M3yW
