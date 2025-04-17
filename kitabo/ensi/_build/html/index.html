@@ -504,21 +504,27 @@ document.write(`
 <style>
 /* ╭━━━☆━━━╮  FLOAT FRAMES (Figure / Seealso) */
 .float-frame {
-    border: 1px solid #ccc;
-    background-color: #f9f9f9;
-    position: relative;
-    padding: 10px 14px;
-    margin: 15px;
-    font-family: sans-serif;
-    font-size: 14px;
-    line-height: 1.5;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  position: relative;
+  padding: 10px 14px;
+  margin: 15px;
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
 }
 
-/* Floated figure (image/code block) */
 .float-frame.figure-style {
-    float: right;
-    width: 35%;
-    text-align: center;
+  float: right;
+  width: 35%;
+  text-align: center;
+  overflow: hidden;
+}
+
+.float-frame.figure-style img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 /* Floated seealso (text-only callout) */
