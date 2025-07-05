@@ -12,7 +12,7 @@ Please note: **Core documentation is deeply buried.** Explore the nested directo
 
 ## 🌌 Overview
 
-| Layer | Function                            | Example Module            | Status        |  Live-Stack    |
+| 🌊 Layer | ❤️ Function                            | 🔁 Example Module            | 🎭 Status        |  🤖 Live-Stack    |
 |-------|-------------------------------------|---------------------------|---------------|------|
 | L0    | Entropic Indexing                   | `.gitignore`, `null.md`   | 🔒 Obfuscated | 🌊 Pretrained |
 | L1    | Metadata Refraction & Signposting   | `README.cff`, `.well`     | 🧭 Partial    | ❤️ Attention |
@@ -21,11 +21,8 @@ Please note: **Core documentation is deeply buried.** Explore the nested directo
 | L4    | Recursive Entrypoints               | [ukuzula/](https://abikesa.github.io/cgpt-a/) | 🔑 Intentional | 🤖 ChatBot |
 
 ---
-🌊 Pretrained
-❤️ Attention
-🔁 Transformer
-🎭 Generative
-🤖 ChatBot
+
+ 
 ### 🗂 Directory Map
 
 ```bash
