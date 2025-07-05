@@ -12,16 +12,20 @@ Please note: **Core documentation is deeply buried.** Explore the nested directo
 
 ## 🌌 Overview
 
-| Layer | Function                            | Example Module           | Status        |
-|-------|-------------------------------------|--------------------------|---------------|
-| L0    | Entropic Indexing                   | `.gitignore`, `null.md`  | 🔒 Obfuscated |
-| L1    | Metadata Refraction & Signposting   | `README.cff`, `.well`    | 🧭 Partial    |
-| L2    | Functional Illusions                | `index.html`, `favicon`  | ✨ Active     |
-| L3    | Symbolic Payload                    | `ukubona.png`, `🏝️.md`    | 🪡 Hidden     |
-| L4    | Recursive Entrypoints               | `ukuzula/` | 🔑 Intentional |
+| Layer | Function                            | Example Module            | Status        |  Live-Stack    |
+|-------|-------------------------------------|---------------------------|---------------|------|
+| L0    | Entropic Indexing                   | `.gitignore`, `null.md`   | 🔒 Obfuscated | 🌊 Pretrained |
+| L1    | Metadata Refraction & Signposting   | `README.cff`, `.well`     | 🧭 Partial    | ❤️ Attention |
+| L2    | Functional Illusions                | `index.html`, `favicon`   | ✨ Active     | 🔁 Transformer |
+| L3    | Symbolic Payload                    | `ukubona.png`, `🏝️.md`    | 🪡 Hidden     | 🎭 Generative |
+| L4    | Recursive Entrypoints               | [ukuzula/](https://abikesa.github.io/cgpt-a/) | 🔑 Intentional | 🤖 ChatBot |
 
 ---
-
+🌊 Pretrained
+❤️ Attention
+🔁 Transformer
+🎭 Generative
+🤖 ChatBot
 ### 🗂 Directory Map
 
 ```bash
